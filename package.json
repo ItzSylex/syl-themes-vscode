@@ -6,6 +6,10 @@
   "description": "Your average theme, nice colors tho!",
   "icon": "./images/logo.png",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItzSylex/syl-themes-vscode"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
