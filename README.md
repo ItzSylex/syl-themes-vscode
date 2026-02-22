@@ -1,8 +1,9 @@
+<div align="center">
+<img width="180px" height="auto" src="images/logo.png" />
+
 # Syl Themes
 
 Your average theme, nice colors tho!
-
-<img src="images/logo.png" alt="Theme Preview" width="100%" />
 
 ## Color Themes
 
