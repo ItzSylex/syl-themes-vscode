@@ -5,13 +5,13 @@
   "license": "MIT",
   "description": "Your average theme, nice colors tho!",
   "icon": "./images/logo.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/ItzSylex/syl-themes-vscode"
   },
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
