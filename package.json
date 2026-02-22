@@ -1,14 +1,22 @@
 {
-  "name": "syl",
+  "name": "syl-themes",
   "displayName": "Syl Themes",
   "publisher": "Sylex",
-  "description": "Color theme",
-  "version": "0.0.2",
+  "license": "MIT",
+  "description": "Your average theme, nice colors tho!",
+  "icon": "./images/logo.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.109.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keyword": [
+    "Theme",
+    "Dark Theme",
+    "Black Theme",
+    "Duotone Theme"
   ],
   "contributes": {
     "themes": [
