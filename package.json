@@ -1,0 +1,37 @@
+{
+  "name": "syl",
+  "displayName": "Syl Themes",
+  "publisher": "Sylex",
+  "description": "Color theme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Syl - Ice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/syl-ice-theme.json"
+      },
+      {
+        "label": "Syl - Shadow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/syl-shadow-theme.json"
+      },
+      {
+        "label": "Syl - Plum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/syl-plum-theme.json"
+      },
+      {
+        "label": "Syl - Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/syl-black-theme.json"
+      }
+    ]
+  }
+}
