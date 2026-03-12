@@ -43,11 +43,6 @@
         "label": "Syl - Black",
         "uiTheme": "vs-dark",
         "path": "./themes/syl-black-theme.json"
-      },
-      {
-        "label": "Syl - Bear",
-        "uiTheme": "vs-dark",
-        "path": "./themes/syl-bear-theme.json"
       }
     ]
   }
