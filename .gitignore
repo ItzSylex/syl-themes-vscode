@@ -1,3 +1,4 @@
 .vscode
 *.vsix
 tests.ipynb
+building_blocks/
