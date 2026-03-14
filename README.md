@@ -7,7 +7,9 @@ Your average theme, nice colors tho! A set of dark themes with 6 variants to pic
 
 Font used in screenshots: JetBrainsMono Nerd Font Mono
 
-![Preview](images/preview.png)
+<a href="images/preview.png" target="_BLANK">
+<img alt="Preview" src="images/preview.png" />
+</a>
 
 </div>
 
