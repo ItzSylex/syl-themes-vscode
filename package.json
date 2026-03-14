@@ -3,9 +3,9 @@
   "displayName": "Syl Themes",
   "publisher": "Sylex",
   "license": "MIT",
-  "description": "Your average theme, nice colors tho!",
+  "description": "Your average theme, nice colors tho! 6 dark variants with muted, easy-on-the-eyes colors.",
   "icon": "./images/logo.png",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ItzSylex/syl-themes-vscode"
@@ -16,11 +16,18 @@
   "categories": [
     "Themes"
   ],
-  "keyword": [
-    "Theme",
-    "Dark Theme",
-    "Black Theme",
-    "Duotone Theme"
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "color theme",
+    "muted",
+    "black",
+    "ice",
+    "plum",
+    "shadow",
+    "forest",
+    "chocolate"
   ],
   "contributes": {
     "themes": [
