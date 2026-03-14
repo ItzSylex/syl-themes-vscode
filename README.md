@@ -3,17 +3,22 @@
 
 # Syl Themes
 
-Your average theme, nice colors tho!
+Your average theme, nice colors tho! A set of dark themes with 6 variants to pick from.
 
-## Color Themes
+Font used in screenshots: JetBrainsMono Nerd Font Mono
 
-| Theme  | Preview                              |
-| ------ | ------------------------------------ |
-| Plum   | ![Plum](images/preview-plum.png)     |
-| Ice    | ![Ice](images/preview-ice.png)       |
-| Shadow | ![Shadow](images/preview-shadow.png) |
-| Black  | ![Black](images/preview-black.png)   |
+![Preview](images/preview.png)
 
-## Credits
+</div>
 
-[sainnhe](https://marketplace.visualstudio.com/publishers/sainnhe) for the syntax color on the the everforest theme.
+## 🚀 Installation
+
+-   Open the Extensions sidebar in VS Code
+-   Search for `Syl Themes`
+-   Click Install
+-   Open the Command Palette with `Ctrl+Shift+P`
+-   Select **Preferences: Color Theme** and choose your variant
+
+## 🐛 Issues
+
+Something look off? [Open an issue](https://github.com/ItzSylex/syl-themes-vscode/issues) and I'll take a look.
