@@ -24,3 +24,7 @@ Font used in screenshots: JetBrainsMono Nerd Font Mono
 ## 🐛 Issues
 
 Something look off? [Open an issue](https://github.com/ItzSylex/syl-themes-vscode/issues) and I'll take a look.
+
+## Author
+
+Made by [ItzSylex](https://github.com/ItzSylex)
